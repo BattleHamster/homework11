@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static void sum() {
-        int sum = 5 + 1;
+        int sum = 25 + 1;
         System.out.println(sum);
     }
 }
